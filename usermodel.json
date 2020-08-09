@@ -1,0 +1,99 @@
+{
+    "***********registeration details*******************": "",
+    "user-type": "mentee",
+    "name": "name",
+    "phone": "90909",
+    "email": "email",
+    "hashedpass": "pass",
+    "***********additional details*******************": "",
+    "alternatephone": "888",
+    "parentname": "parentname",
+    "parentphone": "79798",
+    "class": "11",
+    "lastjee": {
+        "year": 2017,
+        "percentile": 99.9
+    },
+    "target": 2021,
+    "modeofprep": "Coaching",
+    "othertargets": "fndsfds",
+    "language": "hindi",
+    "materialrequirements": "yes/no/test",
+    "referal": "Youtube",
+    "whydoyouwantmentorship": "xyzxyz",
+    "expectationsfromus": "abcabc",
+    "****************account details****************": "",
+    "account": {
+        "plan": "planname",
+        "expireon": "upto",
+    },
+    "payments": [
+        {
+            "invoiceid": "random",
+            "paymentdate": "date",
+            "status": "success",
+            "id": "id",
+            "plan": "nameofplan",
+            "amount": 1500
+        },
+        {
+            "invoiceid": "random",
+            "paymentdate": "date",
+            "status": "success",
+            "id": "id",
+            "plan": "nameofplan",
+            "amount": 1500
+        }
+    ],
+    "notification": [
+        {
+            "title": "description",
+            "button": "button text",
+            "read": true
+        },
+        {
+            "title": "description",
+            "button": "button text",
+            "read": true
+        }
+    ],
+    "issuedmaterial": [
+        "p-cb-th",
+        "m-st-fs"
+    ],
+    "pastrequests": [
+        {
+            "requestid": "reqid",
+            "material": [
+                "p-cb-th",
+                "m-st-fs"
+            ],
+            "status": "mentor approval pending"
+        },
+        {
+            "requestid": "reqid",
+            "material": [
+                "p-cb-th",
+                "m-st-fs"
+            ],
+            "status": "issued"
+        }
+    ],
+    "assignedmentor": "mentor id",
+    "pasttickets": [
+        {
+            "tickettime": "timestamp",
+            "ticketid": "ticketid",
+            "issue": "billing",
+            "description": "my issue is xyz",
+            "status": "pending",
+        },
+        {
+            "tickettime": "timestamp",
+            "ticketid": "ticketid",
+            "issue": "billing",
+            "description": "my issue is xyz",
+            "status": "pending",
+        }
+    ]
+}
